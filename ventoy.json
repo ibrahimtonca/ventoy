@@ -1,0 +1,75 @@
+{
+    "control":[
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_TREE_VIEW_MENU_STYLE": "1" },
+        { "VTOY_WIN11_BYPASS_CHECK": "1" }
+    ],
+    "theme":{
+        "gfxmode": "1920x1080"
+    },
+    "theme_legacy":{
+        "file": "/ventoy/theme/theme.txt",
+        "gfxmode": "1920x1080"
+    },
+    "theme_uefi":{
+        "file": "/ventoy/theme/theme.txt",
+        "gfxmode": "1920x1080"
+    },
+    "theme_ia32":{
+        "gfxmode": "1920x1080"
+    },
+    "theme_aa64":{
+        "gfxmode": "1920x1080"
+    },
+    "theme_mips":{
+        "gfxmode": "1920x1080"
+    },
+    "menu_class": [
+        {
+            "key": "Windows_8",
+            "class": "windows8"
+        },
+		{
+            "key": "Windows_10",
+            "class": "windows10"
+        },
+		{
+            "key": "Windows_11",
+            "class": "windows11"
+        },
+		{
+            "key": "Acronis_True_Image",
+            "class": "acronistrueimage"
+        },
+		{
+            "key": "Acronis_Cyber_Backup",
+            "class": "acronisbackup"
+        },
+		{
+            "key": "Acronis_True_Image",
+            "class": "acronistrueimage"
+        },
+		{
+            "key": "BootIt_Bare_Metal",
+            "class": "bootitbaremetal"
+        },
+		{
+            "key": "Boot_Repair_Disk",
+            "class": "bootrepairdisk"
+        },
+		{
+            "key": "Elcomsoft_System_Recovery",
+            "class": "elcomsoft"
+        },
+		{
+            "key": "Rescatux",
+            "class": "rescatux"
+        },
+		{
+            "key": "Hiren_Boot",
+            "class": "hirenboot"
+        }
+		
+    ],
+    "note": "www.ibrahimtonca.com"
+}
